@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MSIR
+ *
+ */
+module CodingBat {
+}
